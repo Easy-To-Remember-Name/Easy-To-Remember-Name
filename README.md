@@ -1,38 +1,38 @@
 # 👋 Hi, I'm Alt
 
-Welcome to my GitHub profile! I’m someone who loves to explore how systems work under the hood. I enjoy building things from scratch, tweaking systems, and experimenting with code just for the sake of learning and curiosity.
+Welcome to my GitHub profile! I’m someone who loves exploring how systems work under the hood. I enjoy building things from scratch, tweaking systems, and experimenting with code purely out of curiosity and a desire to learn.
 
 ---
 
 ## 🧩 Hobbies & Explorations
 
-- 🐧 **Linux Tinkering** – Customizing Arch Linux, configuring minimal setups, and experimenting with system-level tweaks.
-- 🧠 **Understanding OS Internals** – Bootloaders, kernels, file systems—breaking things to learn how they work.
-- 🎮 **Game Dev Experiments** – Making small 2D games with Python and Pygame for fun and learning.
-- 💻 **Terminal Fun** – Writing scripts, optimizing shell workflows, and customizing the Fish shell environment.
-- 🌐 **Building Useful Tools** – Things like an personal AI assitant present directly on my laptop and automation scripts that scratch a personal itch.
+- 🐧 **Linux Tinkering** – Customizing Arch Linux, configuring minimal setups, and experimenting with low-level system behavior.
+- 🧠 **OS Internals** – Bootloaders, kernels, filesystems—breaking and rebuilding things to understand them better.
+- 🎮 **Game Dev Experiments** – Making small 2D games with Python and Pygame, just for fun and creativity.
+- 💻 **Terminal Fun** – Writing scripts, refining shell workflows, and customizing the Fish shell environment.
+- 🌐 **Tool Building** – Creating things like a personal AI assistant that runs directly on my laptop, and automation tools that solve real annoyances.
 
 ---
 
 ## ⚙️ Tech I Like to Use
 
-- **Languages**: Python, Bash, C, HTML/CSS, minimal JS
+- **Languages**: Python, Bash, C, HTML/CSS, light JavaScript
 - **Environments**: Hyprland, Termux, QEMU, Kitty terminal
 - **Concepts**: Btrfs, GRUB, systemd, VNC, Flatpak sandboxing
 
 ---
 
-## 📚 Things I'm Exploring
+## 📚 Currently Exploring
 
 - Building my own minimal Linux OS (Linux From Scratch)
-- Virtualization, debugging, and performance tuning
-- Automation through clean, minimal scripts
+- Virtualization, debugging, and performance optimization
+- Automating workflows with clean, minimal scripts
 
 ---
 
 ## 📬 Connect
 
-- 💬 I like discussing ideas and learning from others. Feel free to open issues or fork my projects.
+- 💬 I enjoy discussing ideas and learning from others. Feel free to open issues, fork my projects, or reach out via GitHub.
 
 ---
 
