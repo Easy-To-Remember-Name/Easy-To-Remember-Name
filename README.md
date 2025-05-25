@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m someone who loves to explore how systems wor
 - 🧠 **Understanding OS Internals** – Bootloaders, kernels, file systems—breaking things to learn how they work.
 - 🎮 **Game Dev Experiments** – Making small 2D games with Python and Pygame for fun and learning.
 - 💻 **Terminal Fun** – Writing scripts, optimizing shell workflows, and customizing the Fish shell environment.
-- 🌐 **Building Useful Tools** – Things like wallpaper managers (e.g., [Waypaper]) and automation scripts that scratch a personal itch.
+- 🌐 **Building Useful Tools** – Things like wallpaper managers () and automation scripts that scratch a personal itch.
 
 ---
 
